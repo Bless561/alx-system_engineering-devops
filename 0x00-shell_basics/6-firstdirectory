@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "README" > /tmp/my_first_directory/README.md
+mkdir ../../tmp/my_first_directory
